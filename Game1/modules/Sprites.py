@@ -1,10 +1,7 @@
 '''
-Function:
-    定义游戏精灵类
+
 Author:
-    Charles
-微信公众号:
-    Charles的皮卡丘
+ MMekni
 '''
 import math
 import pygame
